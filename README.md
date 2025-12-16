@@ -8,6 +8,17 @@ Ziel ist ein interaktives Dashboard, das monatliche Entwicklungen, Top-Produkte 
 ## 🎯 Ziel des Projekts
 Entwicklung eines Power BI Dashboards zur Unterstützung von datengetriebenen Entscheidungen im Vertrieb.
 
+## 📌 Analyse-Scope & Business-Fragestellungen
+Das Dashboard beantwortet unter anderem folgende Fragestellungen:
+
+- Wie hoch sind Umsatz, Gewinn und Anzahl der Bestellungen insgesamt?
+- Wie entwickeln sich Umsatz und Profit im Zeitverlauf?
+- Welche Produktkategorien und Produkte tragen am stärksten zum Umsatz bei?
+- Welche Kundensegmente sind am profitabelsten?
+- Wie unterscheiden sich die Regionen in ihrer Performance?
+- Gibt es saisonale Trends oder Auffälligkeiten?
+
+
 ## 📊 Datengrundlage
 Verwendet wird das öffentlich verfügbare "Superstore Sales" Dataset (Kaggle).
 Die Daten enthalten Informationen zu Bestellungen, Kunden, Produkten, Regionen und Umsätzen.
